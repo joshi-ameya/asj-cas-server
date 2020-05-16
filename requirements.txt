@@ -2,3 +2,5 @@ Django==3.0.6
 pylint==2.4.4
 psycopg2-binary==2.8.5
 autopep8==1.5.1
+djangorestframework==3.11.0
+django-querycount==0.7.0
